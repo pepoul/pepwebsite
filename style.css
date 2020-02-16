@@ -1,0 +1,23 @@
+body {
+    background-color: #DEDEDE;
+}
+
+
+.btn-red {
+    color: #F91F1F;
+    background-color: #FFFFFF;
+    border-color: #F91F1F;
+}
+
+div.main {
+    margin-top: 100px;
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-image {
+    height: 90vh;
+    background-size: cover;
+    background-position: center center;
+}
